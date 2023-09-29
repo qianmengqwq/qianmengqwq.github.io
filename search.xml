@@ -88,9 +88,9 @@
     
     
     <entry>
-      <title>myself</title>
-      <link href="/myself/index.html"/>
-      <url>/myself/index.html</url>
+      <title>timeline</title>
+      <link href="/timeline/index.html"/>
+      <url>/timeline/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -99,9 +99,9 @@
     
     
     <entry>
-      <title>timeline</title>
-      <link href="/timeline/index.html"/>
-      <url>/timeline/index.html</url>
+      <title>myself</title>
+      <link href="/myself/index.html"/>
+      <url>/myself/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
