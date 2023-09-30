@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://qianmengqwq.github.io/timeline/index.html</loc>
-    
-    <lastmod>2023-09-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://qianmengqwq.github.io/qianmengqy/0.html</loc>
     
     <lastmod>2023-09-30</lastmod>
@@ -65,15 +56,6 @@
   </url>
   
   <url>
-    <loc>https://qianmengqwq.github.io/messageboard/index.html</loc>
-    
-    <lastmod>2023-09-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://qianmengqwq.github.io/myself/index.html</loc>
     
     <lastmod>2023-09-30</lastmod>
@@ -84,6 +66,15 @@
   
   <url>
     <loc>https://qianmengqwq.github.io/tags/index.html</loc>
+    
+    <lastmod>2023-09-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qianmengqwq.github.io/timeline/index.html</loc>
     
     <lastmod>2023-09-30</lastmod>
     

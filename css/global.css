@@ -1,0 +1,12 @@
+/* 在这里面写一些全局的样式 */
+
+/* 一图流: */
+/* 页脚透明 */
+#footer {
+  background: transparent !important;
+}
+
+/* 头图透明 */
+#page-header {
+  background: transparent !important;
+}
