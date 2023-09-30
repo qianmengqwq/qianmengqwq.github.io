@@ -6,7 +6,7 @@
   <link href="https://qianmengqwq.github.io/atom.xml" rel="self"/>
   
   <link href="https://qianmengqwq.github.io/"/>
-  <updated>2023-09-30T18:23:37.916Z</updated>
+  <updated>2023-09-30T18:55:40.784Z</updated>
   <id>https://qianmengqwq.github.io/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>butterfly重装笔记</title>
+    <link href="https://qianmengqwq.github.io/qianmengqy/0.html"/>
+    <id>https://qianmengqwq.github.io/qianmengqy/0.html</id>
+    <published>2023-10-01T00:00:00.000Z</published>
+    <updated>2023-09-30T18:55:40.784Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>总体来说，本博客是基于 <code>https://blog.anheyu.com/posts/sdxhu.html</code> 的教程配置的。</p><p>若你也想配置一个类似的 blog，可以参照一下上述教程</p><p>但是就目前(2023/10/1)来说很多地方都已经无法完全复刻，我甚至 npm i 不到很多依赖，有的 api 也废弃了，所以魔改还是自己研究吧</p><p>不要无脑 cv 代码，认真读读配置文档，我相信大伙最后都能成功部署的^^</p><p>~最好有一定 nodejs、前端三件套基础，至少能看懂一些 npm 的安装方式~~</p><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>​ 最近心血来潮，突然想维护一下一年前搭建过的 hexo 博客</p><p>​ 但是！我已经忘记了之前很多配置过的内容了，也不怎么能辨认的出来当初魔改的地方，再加上之前纯小白时期犯下的很多错误，这个项目对目前的我来说，宛如一个黑盒…</p><p>所以，我决定重装部分配置，并记录下整个过程，以供日后参考。现在才明白大佬们记录安装过程的高明之处 qwq</p><h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><h3 id="之前已配置-且前面的教程完全可用"><a href="#之前已配置-且前面的教程完全可用" class="headerlink" title="之前已配置 且前面的教程完全可用"></a>之前已配置 且前面的教程完全可用</h3><p>wowjs<br>live2d<br>github-action<br>hexo-abbrlink<br>hexo-generator-search<br>hexo-bilibili-bangumi<br>hexo-tag-aplayer(拿不到 vip 歌曲，issues 上也有提及，有需求的话自己找 api 重写一下吧)<br>hexo-butterfly-envelope</p><h3 id="待办"><a href="#待办" class="headerlink" title="待办"></a>待办</h3><p>seo 优化<br>自定义 css<br>外挂 js</p><h3 id="配置-1"><a href="#配置-1" class="headerlink" title="配置"></a>配置</h3><h4 id="评论-Twikoo"><a href="#评论-Twikoo" class="headerlink" title="评论:Twikoo"></a>评论:Twikoo</h4>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h2&gt;&lt;p&gt;总体来说，本博客是基于 &lt;code&gt;https://blog.anheyu.com/posts/sdxhu.html&lt;/code&gt; 的教程配</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>test</title>
     <link href="https://qianmengqwq.github.io/qianmengqy/63534.html"/>
     <id>https://qianmengqwq.github.io/qianmengqy/63534.html</id>
-    <published>2023-10-01T18:41:13.000Z</published>
-    <updated>2023-09-30T18:23:37.916Z</updated>
+    <published>2023-09-30T18:41:13.000Z</published>
+    <updated>2023-09-30T18:55:40.784Z</updated>
     
     <content type="html"><![CDATA[<p> 测试一下</p> <div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁紙</div>  <p>收藏的一些壁紙</p>  <a href='/Gallery/wallpaper'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">漫威</div>  <p>關於漫威的圖片</p>  <a href='/Gallery/marvel'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/hOqbQ3BIwa6KWpo.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">OH MY GIRL</div>  <p>關於OH MY GIRL的圖片</p>  <a href='/Gallery/ohmygirl'></a>  </figcaption>  </figure>  </div><div class="tip "><p>default</p></div><p>qwq</p>]]></content>
     
@@ -41,31 +61,11 @@
   </entry>
   
   <entry>
-    <title>butterfly重装笔记</title>
-    <link href="https://qianmengqwq.github.io/qianmengqy/0.html"/>
-    <id>https://qianmengqwq.github.io/qianmengqy/0.html</id>
-    <published>2023-10-01T00:00:00.000Z</published>
-    <updated>2023-09-30T18:23:37.916Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h2><p>总体来说，本博客是基于 <code>https://blog.anheyu.com/posts/sdxhu.html</code> 的教程配置的。</p><p>若你也想配置一个类似的 blog，可以参照一下上述教程</p><p>但是就目前(2023/10/1)来说很多地方都已经无法完全复刻，我甚至 npm i 不到很多依赖，有的 api 也废弃了，所以魔改还是自己研究吧</p><p>不要无脑 cv 代码，认真读读配置文档，我相信大伙最后都能成功部署的^^</p><p>~最好有一定 nodejs、前端三件套基础，至少能看懂一些 npm 的安装方式~~</p><h2 id="写在前面"><a href="#写在前面" class="headerlink" title="写在前面"></a>写在前面</h2><p>​ 最近心血来潮，突然想维护一下一年前搭建过的 hexo 博客</p><p>​ 但是！我已经忘记了之前很多配置过的内容了，也不怎么能辨认的出来当初魔改的地方，再加上之前纯小白时期犯下的很多错误，这个项目对目前的我来说，宛如一个黑盒…</p><p>所以，我决定重装部分配置，并记录下整个过程，以供日后参考。现在才明白大佬们记录安装过程的高明之处 qwq</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h2&gt;&lt;p&gt;总体来说，本博客是基于 &lt;code&gt;https://blog.anheyu.com/posts/sdxhu.html&lt;/code&gt; 的教程配</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="https://qianmengqwq.github.io/qianmengqy/16107.html"/>
     <id>https://qianmengqwq.github.io/qianmengqy/16107.html</id>
     <published>2022-07-14T18:41:13.000Z</published>
-    <updated>2023-09-30T18:23:37.916Z</updated>
+    <updated>2023-09-30T18:55:40.784Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
